@@ -1,0 +1,3 @@
+.container { position: relative; }
+.container img { display: block; }
+.container .fa-cross { position: absolute; bottom:80px}

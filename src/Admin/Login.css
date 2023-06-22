@@ -1,0 +1,30 @@
+.appButton{
+    margin: 20px;
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(92, 96, 146);
+    border: solid 1px;
+    cursor: pointer;
+   
+}
+.appButton:hover{
+    background-color: black;
+}
+.inputBox{
+    padding: 7px;
+    display: block;
+    border: 1 px solid blue;
+    width: 300px;
+    margin: 20px;
+}
+/* 
+backgroundImage:url(../../),
+backgroundSize: 'cover',
+backgroundPosition: 'center', */
+
+/* .pic{
+    background-image: url(../../Images/login.png);
+    background-size: cover;
+    background-position: center;
+
+} */
